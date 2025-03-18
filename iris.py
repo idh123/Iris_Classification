@@ -8,7 +8,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 # Load the dataset
-dataset = pd.read_csv(r"C:\Users\Nischala\Downloads\Iris.csv")
+dataset = pd.read_csv(r"C:\Users\Ridhi\Downloads\Iris.csv")
 print(dataset.head(10))
 
 # Checking for missing values
